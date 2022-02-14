@@ -21,7 +21,7 @@ export EMAIL_PSWD=gu3ssth1sCIA
 ./send_email.py torvalds@osdl.org '_' 'I report to God. You report to me.' templeos.img
 ```
 
-# Send A Text
+# Send a Text
 
 Sending a text programmatically is as simple as sending an email
 thanks to sms-gateways.
